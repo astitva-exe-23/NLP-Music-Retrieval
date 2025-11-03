@@ -7,6 +7,9 @@ This app turns your diary entry into a playlist vibe using **sentence embeddings
 > 🧠 You write your mood → 🤖 AI understands → 🎶 playlist suggestions appear
 
 ---
+## DATASET
+>https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification/data?select=train.csv
+---
 
 ## ✨ Features
 
