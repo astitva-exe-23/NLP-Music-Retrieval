@@ -31,7 +31,7 @@ This app turns your diary entry into a playlist vibe using **sentence embeddings
 | Data | Precomputed song embedding dataset |
 
 ---
-## Architecture
+## 🏗️ Architecture
 ```mermaid
 flowchart TD
 
@@ -53,5 +53,5 @@ F --> G
 ```
 ---
 
-## 🏗️ Architecture
+
 
