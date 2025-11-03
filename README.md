@@ -32,7 +32,7 @@ This app turns your diary entry into a playlist vibe using **sentence embeddings
 
 ---
 ## Architecture
-```
+```mermaid
 flowchart TD
 
 A[User Diary Input] --> B[LLM: Convert diary to mood prompt]
