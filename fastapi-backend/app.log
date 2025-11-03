@@ -1,0 +1,6 @@
+2025-11-02 21:29:54,552 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-02 21:29:54,553 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-02 21:29:58,631 - app.main - INFO - Loaded embeddings: 5000x384 from data/artifacts
+2025-11-02 21:32:34,882 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-02 21:32:34,883 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-02 21:32:38,700 - app.main - INFO - Loaded embeddings: 5000x384 from data/artifacts
